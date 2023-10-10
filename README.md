@@ -11,6 +11,10 @@ I'm a Computer Science student and a tech enthusiast.
   <img src="https://img.shields.io/badge/website-purple?style=for-the-badge&logo=html5&logoColor=white" alt="Website Badge"/>
 </a>
 
+----------
+
+[![An image of @dannylarge144's Holopin badges, which is a link to view her full Holopin profile](https://holopin.me/dannylarge144)](https://holopin.io/@dannylarge144)
+
 
 
 <!---
