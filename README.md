@@ -1,6 +1,8 @@
 Hi, I'm @dannylarge144, welcome to my github page!
 I'm a Computer Science student and a tech enthusiast. 
 
+----------
+
 <a href="https://www.linkedin.com/in/daniela-large-98822b254/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
