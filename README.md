@@ -1,4 +1,4 @@
-Hi, I'm @dannylarge144, welcome to my github page!
+Hi, I'm Danny, welcome to my github page!
 I'm a Computer Science student and a tech enthusiast. 
 
 ----------
