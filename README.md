@@ -1,5 +1,5 @@
 Hi, I'm Danny, welcome to my github page!
-I'm a Computer Science student and a tech enthusiast. 
+I'm a Computer Science graduate, Bioinformatics student, and a tech enthusiast. 
 
 ----------
 
