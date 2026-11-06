@@ -1,4 +1,4 @@
-Hi, I'm Danny, welcome to my github page!
+Hi, I'm Danny, welcome to my GitHub page!
 I'm a Computer Science graduate, Bioinformatics student, and a tech enthusiast. 
 
 ----------
